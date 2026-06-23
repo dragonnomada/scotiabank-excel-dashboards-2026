@@ -4,6 +4,16 @@
 
 > Alan Badillo Salas
 
+## Referencia al Lenguaje M de Power Query
+
+> Referencia en línea de la página de Microsoft
+
+[https://learn.microsoft.com/es-es/powerquery-m/](https://learn.microsoft.com/es-es/powerquery-m/)
+
+> Archivo PDF
+
+[powerquery-m.pdf](./powerquery-m.pdf)
+
 ## Temario
 
 ### Módulo I – Fundamentos y modelado de datos con Excel
